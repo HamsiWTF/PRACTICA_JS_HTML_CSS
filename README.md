@@ -1,4 +1,4 @@
-# practicaJavascript
+# PRACTICA_JS_HTML_CSS
 
 Hi!
 
