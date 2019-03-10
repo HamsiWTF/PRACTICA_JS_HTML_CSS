@@ -5,7 +5,9 @@ Hi!
 Hola! 
 
 (HE TENIDO QUE SUBIR DOS ARCHIVOS .RAR PORQUE PESA 34MB Y NO ME DEJA SUBIRLO DE UNA VEZ, NO TIENEN CONTRASEÑA)
+
 (LAS CAPTURAS DEL PROYECTO FINAL SE TIENEN QUE MIRAR EN LA PESTAÑA DE ISSUES)
+
 En esta ocasión nos plantean realizar una página que simule una cartelera de una película, en el archivo EnunciadoPractica2.pdf.
 
 Con sus respectivos actores, directores, equipos de produccion, guionistas, resumen, multimedia, etc.
